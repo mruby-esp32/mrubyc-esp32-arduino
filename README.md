@@ -1,7 +1,9 @@
-# mrubyc_for_ESP32_Arduino
+# mrubyc-esp32-arduino
 
 
 An Arduino library of mruby/c for ESP32 Arduino
+
+(This repository is moved from kishima/mrubyc_for_ESP32_Arduino)
 
 This library can be used for M5Stack.
 
@@ -18,11 +20,11 @@ This library depends on ESP32 Arduino library. Please install it in advance.
 
 Clone this repository.
 
-    clone https://github.com/kishima/mrubyc_for_ESP32_Arduino.git
+    clone https://github.com/mruby-esp32/mrubyc-esp32-arduino.git
 
 Copy "mrubyc_for_ESP32_Arduino" to your Arduino library directory.
 
-    cp -r mrubyc_for_ESP32_Arduino [your document directory]/Arduino/libraries/mrubyc_for_ESP32_Arduino
+    cp -r mrubyc_for_ESP32_Arduino [your document directory]/Arduino/libraries/mrubyc-esp32-arduino
 
 Include a header file mrubyc_for_ESP32_Arduino.h.
 
